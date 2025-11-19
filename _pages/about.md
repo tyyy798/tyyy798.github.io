@@ -1,10 +1,6 @@
 
                                             
 title: "欢迎来到我的主页"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
   大家好，我是朱楷，来自江西理工大学信息安全专业（2024）级。
 这是我在大学里的第一个个人主页，用来记录我的学习、成长和项目。

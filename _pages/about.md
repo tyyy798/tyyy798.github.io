@@ -1,5 +1,5 @@
-                                                                       ---
-permalink: /
+
+                                            
 title: "欢迎来到我的主页"
 author_profile: true
 redirect_from: 
